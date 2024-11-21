@@ -133,3 +133,8 @@ Overview: The Scrum Master facilitates Agile processes and helps the team follow
 5. Ensure continuous improvement within the team.
 
 These roles are essential for the success of a software development project. Clear communication and collaboration among team members ensure that the project is completed on time, within budget, and meets the desired quality standards.
+
+## UI Component Patterns
+1. Navbar: Navigation bar is to enable the user navigate smoothly on the site. This will be implemented differently on different screen views.
+2. Property Card: It will be used to display different properties that will be listed by the user. Having options to view more details for the properties.
+3. Footer: It will be used to display important informartions that will help the user understand more about the site.
